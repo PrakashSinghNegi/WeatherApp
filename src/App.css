@@ -1,0 +1,9 @@
+.temp-info div{
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 100px;
+  background-color: rgba(0, 83, 70, 1);
+}
